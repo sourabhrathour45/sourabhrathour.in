@@ -1,0 +1,21 @@
+.navigation {
+    background-color: #065F46;
+    padding : 1rem;
+    -ms-flex-align: end;
+    border-bottom-left-radius: 2rem;
+}
+
+.link {
+    text-decoration: none;
+    color : white;
+    padding : 1rem;
+  
+}
+
+.brand {
+    color : white;
+}
+
+.hero-image {
+    max-width: 25rem;
+}
