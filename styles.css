@@ -104,6 +104,10 @@ body {
 
 }
 
+.last-section{
+    margin-bottom: 3rem;
+}
+
 .primary-button {
     background-color: #047857;
     border-radius: 3rem;
@@ -126,4 +130,21 @@ body {
     border-style: solid;
 
 } 
+
+.foot {
+    padding :4rem;
+    background-color:  #065F46;
+    margin-top: 4rem;
+    max-width: 70rem;
+    margin : auto;
+    border-top-right-radius: 2rem;
+    margin-bottom: -10px;
+}
+
+.footer-title {
+    font-weight: bold;
+    text-align: center;
+    color : white;
+
+}
 
