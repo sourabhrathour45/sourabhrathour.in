@@ -145,6 +145,25 @@ body {
     font-weight: bold;
     text-align: center;
     color : white;
+    padding-bottom: 1.5rem;
 
 }
 
+.footer-elements{
+    text-align: center;
+}
+
+.link2 {
+    text-decoration: none;
+    color : white;
+    padding : 2rem;
+  
+  
+}
+
+.projects {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 3rem;
+    color: #1F2937;
+}
