@@ -7,8 +7,13 @@ body {
 
 .navigation {
     background-color: #065F46;
-    padding : 1rem;
+    padding : 0.8rem;
     border-bottom-left-radius: 2rem;
+    max-width: 70rem;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: -10px;
+    padding-bottom: 1rem;
 }
 
 .link {
@@ -24,14 +29,15 @@ body {
 
 .nav-pills {
     text-align : right;
+    padding-right: 7rem;
 }
 .hero-image {
-    max-width: 25rem;
+
+   max-width: 33rem;
     display : block;
-    margin : auto;
-    padding-right: 5rem;
+    margin: auto;
     margin-top: 4rem;
-    margin-bottom: 3rem;
+
     
 }
 
@@ -39,6 +45,9 @@ body {
     font-weight: bold;
     color:#4B5563;
     text-align: center;
+    font-size: 1.7rem;
+    margin-top: 4rem;
+    
     
   
 }
@@ -47,26 +56,74 @@ body {
     font-weight: bold;
     color:#4B5563;
     text-align: center;
-    margin : 5px
+    margin : 5px;
+    font-size: 2.2rem;
+  
 }
 
 .name1 {
     font-weight: bold;
     text-align: center;
     color: #065F46;
-    margin: 0px
+    margin: 0px;
+    margin-bottom: 3rem;
     
 }
 
 .offwhite{
     background-color : #F3F4F6;
-    padding-bottom : 8rem;
+    padding-bottom : 3rem;
     padding-top: 1rem;
     border-radius: 2rem;
-    flex-wrap: wrap;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    margin-top : 3rem;
+    max-width: 70rem;
+    margin : auto
 
 }
+
+.tech {
+    color:#000000;
+    text-align: center;
+    padding-bottom: 1rem;
+
+}
+
+.tech1{
+    color: #4B5563;
+    text-align: center;
+    margin-bottom: 2.4rem;
+}
+
+.white {
+    background-color : #fff;
+    padding-bottom : 3rem;
+    padding-top: 1rem;
+    border-radius: 2rem;
+    max-width: 70rem;
+    margin : auto;
+    
+
+}
+
+.primary-button {
+    background-color: #047857;
+    border-radius: 3rem;
+    text-align: center;
+    color : #fff;
+    padding: 1rem;
+    font-size: 0.9rem;
+    margin-left: 31.6rem;
+    
+ }
+.secondary-button {
+    border-width: 0.08rem;
+    border-color: #047857 ;
+    border-radius: 3rem;
+    text-align: center;
+    color : #047857;
+    padding: 1rem;
+    font-size: 0.9rem;
+    margin-left: 31.8rem;
+    border-style: solid;
+
+} 
 
