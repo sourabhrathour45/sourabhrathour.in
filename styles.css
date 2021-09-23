@@ -184,7 +184,8 @@ body {
     padding-top: 1rem;
     border-radius: 2rem;
     max-width: 60rem;
-    margin : auto
+    margin : auto;
+    margin-bottom: 2rem;
 
 }
 
@@ -212,7 +213,14 @@ body {
     border-style: solid;
     margin-top: -33px;
     position: absolute;
+}
 
-
-
+.white-projects {
+    background-color : #FFF;
+    padding-bottom : 3rem;
+    padding-top: 1rem;
+    border-radius: 2rem;
+    max-width: 60rem;
+    margin : auto;
+    margin-bottom: 2rem;
 }
