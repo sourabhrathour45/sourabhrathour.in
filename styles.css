@@ -197,7 +197,7 @@ body {
     padding: 1rem;
     font-size: 0.8rem;
     margin-left: 23rem;
-    margin-top: 40px;
+    margin-top: 38px;
 
 }
 
@@ -219,8 +219,8 @@ body {
     background-color : #FFF;
     padding-bottom : 3rem;
     padding-top: 1rem;
-    border-radius: 2rem;
+    border-radius: 3rem;
     max-width: 60rem;
     margin : auto;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
